@@ -1,0 +1,23 @@
+[project]
+name = "watercrawl-ollama"
+version = "0.1.0"
+authors = [
+  { name="Maikel Dolle", email="maikel@itmagix.nl" },
+]
+description = "WaterCrawl Ollama Plugin"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "watercrawl-plugin>=0.1.0",
+    "ollama==0.4.7",
+]
+
+[project.urls]
+Homepage = "https://github.com/watercrawl/watercrawl-ollama"
+Issues = "https://github.com/watercrawl/watercrawl-ollama/issues"
+

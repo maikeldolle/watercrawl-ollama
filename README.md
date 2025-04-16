@@ -36,6 +36,9 @@ OLLAMA_BASE_URL="http://localhost:11434"
 EXTRACT_SYSTEM_PROMPT="Your system prompt"
 ```
 
+## ToDo
+- [ ] Retrieve all available models from Ollama backend
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

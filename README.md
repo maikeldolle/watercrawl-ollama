@@ -37,7 +37,7 @@ EXTRACT_SYSTEM_PROMPT="Your system prompt"
 ```
 
 ## ToDo
-- [ ] Retrieve all available models from Ollama backend
+- [ ] Automatically retrieve all available models from Ollama backend
 
 ## Contributing
 
